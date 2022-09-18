@@ -1,2 +1,2 @@
-# voice-recognition-valeska
+# voice-recognition-nalu
  For study purposes. 
