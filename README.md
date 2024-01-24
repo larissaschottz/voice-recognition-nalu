@@ -13,7 +13,7 @@
 
   <p align="center">
   </p>
-s
+
   <p align="center">
     <em>Este é um projeto simples em Python que utiliza reconhecimento de fala para executar comandos específicos.</em>
   </p>
